@@ -12,5 +12,3 @@ Sign Up: Nous amène à une activité qui fait la vérification du numAssMal pou
 
 Subcribe Activity: Donne des champs à remplir pour subscribe en tant que citoyen et garde le numAssMal valide entré précédemment. Une fois fini de remplir le formulaire et clicker sur le bouton create account, il nous ramène à l'activité main pour login et accéder à notre compte.
 
-
-Test
